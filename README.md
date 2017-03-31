@@ -5,7 +5,7 @@ Simple and well documented implementation of all important Data Structures that 
 Please feel free to contribute your code, we gladly welcome all CS/IS students to contribute code.
 Instructions:
   1. Make sure the program you contribute doesn't already exist in this repo.
-  2. Write your code in one of the recommended programming languages.
+  2. Write your code in one of the recommended programming languages. (C/C++, Java, Python)
   3. Your code must be well documented (useful comments wherever necessary) and follow consistent naming conventions.
   4. Create a folder which contains all necessary source code files (.c, .cpp, .java etc) and include a ReadMe.txt or ReadMe.md file which has instructions to compile and execute your program.
   5. Fork this repo to your github account (click on fork at the top right), 
